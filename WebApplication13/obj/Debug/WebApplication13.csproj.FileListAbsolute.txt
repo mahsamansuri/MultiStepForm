@@ -1,0 +1,6 @@
+C:\Users\SEYED\documents\visual studio 2015\Projects\WebApplication13\WebApplication13\bin\WebApplication13.dll.config
+C:\Users\SEYED\documents\visual studio 2015\Projects\WebApplication13\WebApplication13\bin\WebApplication13.dll
+C:\Users\SEYED\documents\visual studio 2015\Projects\WebApplication13\WebApplication13\bin\WebApplication13.pdb
+C:\Users\SEYED\documents\visual studio 2015\Projects\WebApplication13\WebApplication13\obj\Debug\WebApplication13.csprojResolveAssemblyReference.cache
+C:\Users\SEYED\documents\visual studio 2015\Projects\WebApplication13\WebApplication13\obj\Debug\WebApplication13.dll
+C:\Users\SEYED\documents\visual studio 2015\Projects\WebApplication13\WebApplication13\obj\Debug\WebApplication13.pdb
